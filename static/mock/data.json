@@ -1,0 +1,25 @@
+{
+  "name": "tesssssst",
+  "url": "http://baidu.com",
+  "page": 1,
+  "isNoProfit": true,
+  "address": {
+    "street": "某街道",
+    "city": "某城市",
+    "country": "中国"
+  },
+  "links": [
+    {
+      "name": "bilibli",
+      "url": "sdfsdddddsdfsf"
+    },
+    {
+      "name": "chhhh",
+      "url": "sdfsdfhhhhhhhsdfsf"
+    },
+    {
+      "name": "baidu",
+      "url": "sdfsdfhooooooodfsf"
+    }
+  ]
+}
